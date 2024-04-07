@@ -1,0 +1,12 @@
+Enter your first name with no spaces or non-alphabetic characters#lblErrRegFirstName
+Enter your first name with no spaces or non-alphabetic characters#lblErrRegSurName
+Enter your email address so we know where to send the emails to#lblRegErrEmailAdd
+Please enter the phone number as XXX XXX XXXX#lblRegErrPhone
+Enter your first and surname with a space in between#lblErrUpdateDetailsName
+Enter your new email address if you wish to change it#lblErrUpdateDetailsEmailAdd
+Click on the 3 dots to choose a date#lblErrorDOS
+Please choose a client to bill#lblErrClient
+Please give the price of the session#lblErrAmount
+Please choose which type of session it is#lblErrGrpOrIndv1
+Please pick how many clients were at this session#lblErrHowMany
+Choose the duration of the session (measured in hours)#lblErrorDurSes
