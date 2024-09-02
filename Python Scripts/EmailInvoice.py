@@ -10,7 +10,6 @@ def send_email_with_attachment(recipient_email,file_name,date):
     """Sends an email to the client including the invoice"""
     # Set up the sender email address and app password (replace with your values)
     # sender_email = 'chriss3rd@gmail.com'
-    # app_password = 'eaef gwhj vcpt awua'  # If you have two-factor authentication enabled, use an app password
     sender_email = '<EMAIL ADRESS HERE>'
     app_password = 'APP PASSWORD HERE'
 
