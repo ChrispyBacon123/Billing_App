@@ -9,7 +9,6 @@ from tkinter import messagebox
 def send_email_with_attachment(recipient_email,file_name,date):
     """Sends an email to the client including the invoice"""
     # Set up the sender email address and app password (replace with your values)
-    # sender_email = 'chriss3rd@gmail.com'
     sender_email = '<EMAIL ADRESS HERE>'
     app_password = 'APP PASSWORD HERE'
 
